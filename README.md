@@ -17,49 +17,38 @@ Bem-vindos ao repositório do nosso Sistema de Reservas para o Garagino. Este pr
 
 # ⚙️ Instruções
 Para começar a trabalhar com este projeto, siga os passos abaixo!
-<dl>
-    1.Clone o repositório para sua máquina local:
-   <dt>
-      
-      git clone url_do_repositório  
-   </dt>
-  
-    2. Instale as dependências:
-   <dt>
-      
-      npm install
-   </dt>
-   
-    3. Inicie o servidor de desenvolvimento:
-   <dt>
-      
-      npm start
-   </dt>
-   
-    4.Caso queira que a aplicação comece a rodar:
-   <dt>
-      
-      npm run dev
-   </dt>
-    5. Aplicação sendo executada com sucesso!
-</dl>
+
+1.Clone o repositório para sua máquina local:
+    ```git clone url_do_repositório```  
+
+  2. Instale as dependências:
+    ```cd pluriiv2```
+
+3. Instale as dependências do projeto:
+    ```npm install```
+
+4.Para a aplicação começar a rodar:
+    ```npm run dev```
+    
+5. Aplicação sendo executada com sucesso!
+
 
 # 📄 Como foi desenvolvido?
 Este projeto foi concebido com a visão de combinar funcionalidade robusta com uma experiência de usuário imersiva. 
 
-  **Ideação e Planejamento**
+  **Ideação e Planejamento** <br />
 Inicialmente, realizamos sessões de brainstorming para identificar as funcionalidades chave necessárias em um sistema de reserva. Após definir os requisitos, esboçamos wireframes e criamos um roadmap de desenvolvimento, priorizando as funcionalidades e a experiência do usuário.
 
-  **Desenvolvimento Ágil**
+  **Desenvolvimento Ágil** <br />
 Adotamos uma abordagem ágil para o desenvolvimento, permitindo uma adaptação rápida às mudanças e a entrega contínua de recursos. Iterações regulares e feedback da equipe garantiram que o projeto permanecesse alinhado com nossos objetivos.
 
-  **Tecnologias Modernas**
+  **Tecnologias Modernas** <br />
 Escolhemos o React.js pela sua eficiência em renderizar componentes dinâmicos, juntamente com o TypeScript para adicionar segurança de tipos e melhorar a manutenção do código. Para os estilos, optamos por Styled-Components, que nos permitiu escrever CSS dentro do JavaScript com escopo e temas dinâmicos.
 
-  **Componentes Reutilizáveis**
+  **Componentes Reutilizáveis** <br />
 Com foco na modularidade, criamos componentes reutilizáveis que poderiam ser facilmente adaptados e reutilizados em diferentes partes do aplicativo, garantindo consistência e eficiência no desenvolvimento.
 
-  **UI/UX**
+  **UI/UX** <br />
 A interface do usuário foi projetada com atenção meticulosa aos detalhes. Utilizamos uma paleta de cores harmoniosa e uma tipografia clara para criar uma interface agradável e acessível. Animações sutis e feedback visual foram incorporados para guiar os usuários através de suas interações com o aplicativo.
 
 🌟 Cada linha de código reflete nosso compromisso com qualidade e atenção aos detalhes, culminando em um sistema de reservas que é tanto robusto quanto intuitivo. 
