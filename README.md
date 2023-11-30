@@ -16,22 +16,33 @@ Bem-vindos ao repositório do nosso Sistema de Reservas para o Garagino. Este pr
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 
 # ⚙️ Instruções
-Para começar a trabalhar com este projeto, siga os passos abaixo!
 
-1.Clone o repositório para sua máquina local:
-    ```git clone url_do_repositório```  
+Requisitos:
+Para executar este projeto, você precisará do Node.js instalado. Você pode baixá-lo clicando [aqui](https://nodejs.org/).
 
-  2. Instale as dependências:
-    ```cd pluriiv2```
+1 - Clone o projeto
 
-3. Instale as dependências do projeto:
-    ```npm install```
+```bash
+  git clone https://link-para-o-projeto
+```
 
-4.Para a aplicação começar a rodar:
-    ```npm run dev```
-    
-5. Aplicação sendo executada com sucesso!
+2 - Entre no diretório do projeto
 
+```bash
+  cd pluriiv2
+```
+
+3 - Instale as dependências do projeto
+
+```bash
+  npm install
+```
+
+4 - Inicie o servidor
+
+```bash
+  npm run dev
+```
 
 # 📄 Como foi desenvolvido?
 Este projeto foi concebido com a visão de combinar funcionalidade robusta com uma experiência de usuário imersiva. 
