@@ -30,18 +30,19 @@ Para começar a trabalhar com este projeto, siga os passos abaixo!
       
       npm install
    </dt>
-   
+  
     3. Inicie o servidor de desenvolvimento:
    <dt>
       
       npm start
    </dt>
    
-    4.Caso queira que a aplicação comece a rodar:
+    4. Caso queira que a aplicação comece a rodar:
    <dt>
       
       npm run dev
    </dt>
+  
     5. Aplicação sendo executada com sucesso!
 </dl>
 
